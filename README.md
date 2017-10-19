@@ -5,4 +5,4 @@
 > Demos del sitio: https://www.rabbitmq.com/getstarted.html
 
 Lista de ejemplos:
-- hello_world
+- hello_world: https://www.rabbitmq.com/tutorials/tutorial-one-javascript.html
