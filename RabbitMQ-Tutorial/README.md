@@ -2,6 +2,7 @@
 > Demos del sitio: https://www.rabbitmq.com/getstarted.html
 
 Lista de ejemplos:
+
 - hello_world: https://www.rabbitmq.com/tutorials/tutorial-one-javascript.html
 ![N|Solid](https://www.rabbitmq.com/img/tutorials/python-one-overall.png)
 
@@ -18,5 +19,5 @@ Lista de ejemplos:
 ![N|Solid](https://www.rabbitmq.com/img/tutorials/python-five.png)
 
 - RPC: https://www.rabbitmq.com/tutorials/tutorial-six-javascript.html
-![N|Solid](https://www.rabbitmq.com/img/tutorials/python-five.png)
+![N|Solid](https://www.rabbitmq.com/img/tutorials/python-six.png)
 
