@@ -5,3 +5,5 @@ Lista de ejemplos:
 - hello_world: https://www.rabbitmq.com/tutorials/tutorial-one-javascript.html
 - work_queues: https://www.rabbitmq.com/tutorials/tutorial-two-javascript.html
 - public_subscribe: https://www.rabbitmq.com/tutorials/tutorial-three-javascript.html
+- routing: https://www.rabbitmq.com/tutorials/tutorial-four-javascript.html
+- topics: https://www.rabbitmq.com/tutorials/tutorial-five-javascript.html
