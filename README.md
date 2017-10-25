@@ -1,6 +1,6 @@
 # Nodejs-Rabbit-Test
 ![N|Solid](https://www.rabbitmq.com/img/RabbitMQ-logo.svg)
-![N|Solid](https://rishabh.io/tech/nodejs/img/nodejs.png | width=100)
+![](https://rishabh.io/tech/nodejs/img/nodejs.png =250x250)
 
 > Este repositorio es una colección de pruebas para trabajar con Nodejs y RabbitMQ, ademas de las pruebas que se encuentran en el sitio oficial de Rabbit habran algunas otras, en las que planteo escenarios reales de usar Nodejs y un sistema de colas.
 
