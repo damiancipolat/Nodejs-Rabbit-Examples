@@ -15,8 +15,8 @@ $ npm install
 
 ```sh
 Iniciar servidor:
-node server.js
+$ node server.js
 
 Iniciar sensores, abrir en dif. consolas:
-node sensor.js
+$ node sensor.js
 ```
