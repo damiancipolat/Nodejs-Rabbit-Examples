@@ -1,9 +1,7 @@
-# Emergencias
+# Turismo
 
-![N|Solid](http://damiancipolat.com/webFiles/emergencias.png)
+![N|Solid](http://damiancipolat.com/webFiles/turismo.png)
 
-> El sig. dibujo representa una arquitectura de comunicación con mensajes de un sistema de emergencias, se usan colas para comunicar
-diferentes tipos de situaciones a consumidores que en este caso pueden ser un cuartel de bomberos, un depto. de policia o un hospital.
-Para hacer la comunicación se usa un canal exclusivo de un solo sentido.
+> El sig. dibujo representa una arquitectura de comunicación con mensajes de una empresa de turismo, en la que se usan sistemas de colas para comunicar las reservas de sus productos a los sectores de la casa central, para que reciban cada nueva reserva y se la procese.
 
 @TODO: Falta complejisar el escenario y agregar una cola de respuesta ante cada evento.
