@@ -10,3 +10,13 @@ lecturas de temperatura de los dif sensores y en caso de problemas enviar a una 
 ```sh
 $ npm install
 ```
+
+## Ejecutar:
+
+```sh
+Iniciar servidor:
+node server.js
+
+Iniciar sensores, abrir en dif. consolas:
+node sensor.js
+```
