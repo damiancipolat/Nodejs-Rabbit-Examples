@@ -7,5 +7,6 @@
 Demos del sitio: https://www.rabbitmq.com/getstarted.html adaptados a ES6 y con algunos ligeros cambios.
 
 ## RabbitMQ-Escenarios-reales:
-- Termometros:
+
+### - Termometros:
 Ejemplo de app de IOT que envia datos de temperatura de un sensor a un concentrador de datos atravez de una cola.
