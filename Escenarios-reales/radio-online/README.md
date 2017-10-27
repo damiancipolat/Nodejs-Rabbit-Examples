@@ -10,10 +10,8 @@
 2) Envian a la cola que tienen para transmitir mensajes, la sig estructura en json:
 
 {
-  "title"      : "Carl Cox - global radio",
-  "programCode": "CCXGR",
-  "date"       : "2017-10-01",  
-  "urlApi"     : "http://ibizaOneRadio/programs/download/01210aadsdex/CCXGR_20170110.mp3"
+  "title":"Carl Cox - global radio","programCode":"CCXGR","date":"2017-10-01",
+  "urlApi":"http://ibizaOneRadio/programs/download/01210aadsdex/CCXGR_20170110.mp3"
 }
 
 @TODO: terminar de agregar proyecto en nodejs
