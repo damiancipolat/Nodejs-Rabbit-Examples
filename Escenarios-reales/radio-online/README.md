@@ -8,6 +8,7 @@
 1) Las productoras terminan de publicar el programa de radio de algunos de sus clientes "djs" a las emisoras con las que tienen contrato.
 
 2) Envian a la cola que tienen para transmitir mensajes, la sig estructura en json:
+
 {
   "title"      : "Carl Cox - global radio",
   "programCode": "CCXGR",
