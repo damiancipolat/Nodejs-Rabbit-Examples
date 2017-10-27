@@ -9,9 +9,15 @@
 
 2) Envian a la cola que tienen para transmitir mensajes, la sig estructura en json:
 
+```javascript
 {
-  "title":"Carl Cox - global radio","programCode":"CCXGR","date":"2017-10-01",
+  "title":"Carl Cox - global radio",
+  "programCode":"CCXGR",
+  "date":"2017-10-01",
   "urlApi":"http://ibizaOneRadio/programs/download/01210aadsdex/CCXGR_20170110.mp3"
 }
+```
+
+3) El consumidor de la radio, recibe el msj. de la cola y guarda en una bd cada msj, luego extrae el campo urlApi y realiza la descarga del archivo del server de la productora.
 
 @TODO: terminar de agregar proyecto en nodejs
